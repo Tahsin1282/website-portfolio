@@ -145,3 +145,12 @@ main {
     word-wrap: break-word;
     margin-top: 5px;
 }
+
+#What-i-do-description{
+    padding: 30px 150px ;
+
+}
+
+.skill-container{
+    display: flex;
+}
